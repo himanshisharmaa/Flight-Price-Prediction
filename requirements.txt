@@ -24,9 +24,6 @@ django-phonenumber-field==7.2.0
 dnspython==2.6.1
 et_xmlfile==2.0.0
 exceptiongroup==1.2.2
-fiftyone==0.25.1
-fiftyone-brain==0.17.0
-fiftyone_db==1.1.5
 filelock==3.16.0
 Flask==3.1.0
 Flask-Cors==5.0.0
