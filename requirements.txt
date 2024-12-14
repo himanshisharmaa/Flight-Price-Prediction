@@ -56,7 +56,7 @@ motor==3.5.1
 mpmath==1.3.0
 multivolumefile==0.2.3
 networkx==3.3
-numpy==2.0.0
+numpy==2.1.3
 opencv-contrib-python==4.10.0.84
 opencv-python==4.10.0.84
 opencv-python-headless==4.10.0.84
