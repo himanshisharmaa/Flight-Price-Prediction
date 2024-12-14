@@ -108,7 +108,6 @@ tensorboard-data-server==0.7.2
 texttable==1.7.0
 threadpoolctl==3.5.0
 tifffile==2024.8.30
-tomli==2.2.1
 torch==2.4.1
 tqdm==4.67.0
 traitlets==5.14.3
