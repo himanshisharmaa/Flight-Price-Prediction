@@ -16,13 +16,21 @@ The goal of this project is to build a regression model that can predict flight 
 ##  Project Structure
 
 ├── app.py # Flask application file
+
 ├── FlightPricePred.ipynb # Model training and analysis notebook
+
 ├── flight_rf.pkl # Trained Random Forest model
+
 ├── requirements.txt # Python dependencies
+
 ├── templates/ # HTML templates for Flask frontend
+
 ├── static/css/ # CSS styling
+
 ├── Data_Train.xlsx # Training dataset
+
 ├── Test_set.xlsx # Test dataset
+
 ├── Sample_submission.xlsx
 
 
